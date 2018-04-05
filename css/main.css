@@ -1,0 +1,27 @@
+html {
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+img {
+  width: 200px;
+}
+
+label {
+  display: none;
+}
+
+.darkgrey {
+  background-color: #ddd;
+}
+
+.lightgrey {
+  background-color: #efefef;
+}
+
+.white {
+  background-color: #fff;
+}
+
+table {
+  min-width: 48em;
+}
